@@ -1,4 +1,4 @@
-# 🙋‍♂️ Hi there! I'm **Samreed Maharjan** 🇳🇵
+# 👋 Hi there! I'm **Samreed Maharjan**
 
 🎓 Computer Science Student | 👨‍💻 Frontend Developer  
 🧠 **Learning:** React + TypeScript
@@ -16,22 +16,6 @@
 
 ---
 
-## 🔗 Let's Connect
-
-<p>
-  <a href="https://www.linkedin.com/in/samreedmaharjan/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
-  <a href="mailto:samreed@example.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="40" height="40"/>
-  </a>
-  <a href="https://twitter.com/samreed_maharjan" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40"/>
-  </a>
-</p>
-
----
-
 ## 🧰 Languages & Tools
 
 <p>
@@ -41,11 +25,22 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
+</p>
+
+---
+
+## 🔗 Let's Connect
+
+<p>
+  <a href="https://www.linkedin.com/in/samreedmaharjan/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="https://twitter.com/samreed_maharjan" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40"/>
+  </a>
 </p>
 
 ---
@@ -56,4 +51,4 @@
 
 ---
 
-_✨ Thanks for stopping by! Drop a ⭐ on any project you find useful or cool 😄_
+_✨ Thanks for stopping by! Drop a ⭐ on any project you find useful or cool._
