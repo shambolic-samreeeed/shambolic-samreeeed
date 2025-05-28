@@ -1,38 +1,50 @@
+<div align="center">
+
 # 👋 Hi, I'm Samreed Maharjan
 
-🎓 Computer Science student | 💻 Web Developer | ⚡ MERN & Firebase Enthusiast
+🎓 Computer Science Student | 💻 Full-Stack Web Developer | ⚡ MERN & Firebase Enthusiast
 
-- 🔭 I’m currently working on a file management app using React & TypeScript
-- 🌱 I’m learning AWS deployment and advanced database optimization
-- 💬 Ask me about React, Firebase, Node.js, and design systems
+🌱 Currently exploring:
+- React + TypeScript
+- Firestore-based projects
+- AWS S3 & Amplify deployments
+
+</div>
 
 ---
+
+<div align="center">
 
 ## 📊 GitHub Stats
 
-![Samreed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shambolic-samreeeed&show_icons=true&theme=github_dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shambolic-samreeeed&layout=compact&theme=github_dark&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=shambolic-samreeeed&theme=github-dark-blue&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=shambolic-samreeeed&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shambolic-samreeeed&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150"/>
+<img src="https://streak-stats.demolab.com?user=shambolic-samreeeed&theme=radical&hide_border=true" alt="GitHub Streak" height="150"/>
+
+</div>
 
 ---
+
+<div align="center">
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samreedmaharjan/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/samreed_maharjan)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:samreed@example.com)
+<a href="https://www.linkedin.com/in/samreedmaharjan/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:samreed@example.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<a href="https://twitter.com/samreed_maharjan" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" alt="Twitter"/>
+</a>
+
+</div>
 
 ---
 
-> ⚠️ **Reminder**: Replace the social links with your actual LinkedIn, Twitter, and email.
+<div align="center">
 
----
+⚡ *Thanks for visiting my profile! Feel free to connect and collaborate.*
 
-## 🛠 Want to customize it more?
-
-- GitHub Stats Themes → [github-readme-stats themes](https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md)
-- Streak Stats Themes → [streak-stats themes](https://github.com/DenverCoder1/github-readme-streak-stats#themes)
-
----
-
-Let me know if you want this centered, animated, or styled with emojis/flags!
+</div>
