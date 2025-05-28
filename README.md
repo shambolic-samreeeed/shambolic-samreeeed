@@ -1,10 +1,9 @@
 # 🙋‍♂️ Hi there! I'm **Samreed Maharjan** 🇳🇵
 
-👨‍💻 Frontend Developer | 🎓 Computer Science Student 
-
-🧠 **Learning:** React + TypeScript, Firestore, AWS S3 & Amplify  
-🚀 **Working on:** A file management system 
-💬 **Ask me about:** React, Tailwind, Typescript, UI/UX
+🎓 Computer Science Student | 👨‍💻 Frontend Developer  
+🧠 **Learning:** React + TypeScript
+🚀 **Working on:** A file management system with real-time file tracking  
+💬 **Ask me about:** React, Tailwind, UI/UX, APIs  
 🎯 **Fun Fact:** I drink more code than coffee ☕🤖
 
 ---
@@ -17,28 +16,37 @@
 
 ---
 
-## 🔗 Let's Connect & Collaborate
+## 🔗 Let's Connect
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/samreedmaharjan/)
-- 🐦 [Twitter](https://twitter.com/samreed_maharjan)
-- 📧 [Gmail](mailto:samreed@example.com)
-- 💻 Portfolio coming soon!
+<p>
+  <a href="https://www.linkedin.com/in/samreedmaharjan/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="mailto:samreed@example.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="40" height="40"/>
+  </a>
+  <a href="https://twitter.com/samreed_maharjan" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40"/>
+  </a>
+</p>
 
 ---
 
 ## 🧰 Languages & Tools
 
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
+</p>
 
 ---
 
@@ -49,4 +57,3 @@
 ---
 
 _✨ Thanks for stopping by! Drop a ⭐ on any project you find useful or cool 😄_
-
