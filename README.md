@@ -1,10 +1,10 @@
 # 🙋‍♂️ Hi there! I'm **Samreed Maharjan** 🇳🇵
 
-👨‍💻 Full-Stack Developer | 🎓 CS Student | 🔥 MERN Stack + Firebase Enthusiast
+👨‍💻 Frontend Developer | 🎓 Computer Science Student 
 
 🧠 **Learning:** React + TypeScript, Firestore, AWS S3 & Amplify  
-🚀 **Working on:** A file management system with real-time file tracking  
-💬 **Ask me about:** React, Firebase, Tailwind, Node.js, UI/UX, APIs  
+🚀 **Working on:** A file management system 
+💬 **Ask me about:** React, Tailwind, Typescript, UI/UX
 🎯 **Fun Fact:** I drink more code than coffee ☕🤖
 
 ---
