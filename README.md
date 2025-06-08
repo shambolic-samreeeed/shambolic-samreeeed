@@ -4,7 +4,6 @@
 🧠 **Learning:** React + TypeScript
 🚀 **Working on:** A file management system with real-time file tracking  
 💬 **Ask me about:** React, Tailwind, UI/UX, APIs  
-🎯 **Fun Fact:** I drink more code than coffee ☕🤖
 
 ---
 
