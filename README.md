@@ -1,11 +1,5 @@
 # 👋 Hi there! I'm **Samreed Maharjan**
 
-🎓 **Computer Science Student**  
-👨‍💻 **Frontend Developer**  
-🧠 **Learning:** React + TypeScript  
-🚀 **Working on:** Learning React Native
-💬 **Ask me about:** React, Tailwind, UI/UX, APIs  
-
 ---
 
 ## 📊 GitHub Stats
